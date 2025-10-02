@@ -190,6 +190,10 @@ overflow: hidden;
     margin-right: 0;
 }
 
+.ul-list {
+   width: calc((100% - 72px) / 4);  
+}
+
 
 .title-text {
 font-weight: 500;
