@@ -72,6 +72,8 @@ color: #4d5ae5;
 
 .footer-logo .logo-part {
     color: #f4f4fd;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .nav-list {
@@ -123,6 +125,7 @@ padding: 24px 0;
 
 .page-footer {
     background-color:#2e2f42;
+    padding: 100px 0;
 }
  
 /*section 1*/
