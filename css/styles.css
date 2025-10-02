@@ -126,6 +126,7 @@ padding: 24px 0;
 .section-hero {
 background-color: #2e2f42;
 padding: 188px 0;
+text-align: center;
 }
 
 .hero-text {
@@ -135,7 +136,6 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
-max-width: 496px;
 }
 
 .hero-button {
@@ -150,6 +150,7 @@ display: block;
 min-width: 169px;
 height: 56px;
 border: none;
+border-radius: 4px;
 }
 
 .hero-button:hover,
